@@ -1,0 +1,12 @@
+2024-01-02 19:30:10.827 [info] Resuming cloud changes, reason: cloud changes enabled...
+2024-01-02 19:30:10.827 [info] Checking for pending cloud changes...
+2024-01-02 19:30:10.827 [info] Searching for existing authentication session with ID fba6ab9e598e9af4
+2024-01-02 19:30:10.877 [info] Found existing authentication session with ID fba6ab9e598e9af4
+2024-01-02 19:30:11.023 [info] Request failed https://vscode-sync.trafficmanager.net/v1/resource/editSessions/latest
+2024-01-02 19:30:11.023 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/resource/editSessions/latest'.
+    at S.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:767:72868)
+    at async S.readResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:767:69508)
+    at async b.read (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1545:56603)
+    at async ye.resumeEditSession (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2632:69896)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2632:64499
+2024-01-02 19:30:11.023 [info] Aborting resuming edit session as no edit session content is available to be applied

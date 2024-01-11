@@ -1,0 +1,14 @@
+file:///home/seirennn/cs/a.c {"mtime":1703841909907,"ctime":1703841909907,"size":0,"etag":"3bmd1n6c40","orphaned":false,"typeId":""}
+#include <stdio.h>
+
+int main(){
+    int arr[],n;
+
+    scanf("%d", &n);
+
+    for ( int i = 0; i < n; ++i){
+        scnaf(
+
+        )
+    }
+}

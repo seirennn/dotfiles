@@ -1,0 +1,18 @@
+2024-01-02 19:30:10.301 [info] Extension host with pid 76906 started
+2024-01-02 19:30:10.301 [info] Skipping acquiring lock for /home/seirennn/.config/Code/User/workspaceStorage/20d54af1d56b352a7e90adcd8faa5ac3.
+2024-01-02 19:30:10.328 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-02 19:30:10.347 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-02 19:30:10.355 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-02 19:30:10.378 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-02 19:30:10.481 [info] Eager extensions activated
+2024-01-02 19:30:10.505 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 19:30:10.508 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 19:30:10.515 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 19:30:10.519 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 19:30:10.550 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 19:30:10.827 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-01-02 19:30:10.856 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-02 19:30:11.674 [error] Error: ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-01-02 19:30:15.152 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-02 19:30:15.159 [error] Error: ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-01-02 19:30:15.159 [info] Extension host with pid 76906 exiting with code 0

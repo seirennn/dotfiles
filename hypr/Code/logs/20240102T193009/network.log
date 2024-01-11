@@ -1,0 +1,3 @@
+2024-01-02 19:30:10.468 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2 - error undefined net::ERR_CONNECTION_CLOSED
+2024-01-02 19:30:10.643 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2024-01-02 19:30:12.971 [error] electron #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2 - error undefined net::ERR_CONNECTION_CLOSED

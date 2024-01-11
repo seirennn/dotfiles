@@ -1,0 +1,30 @@
+2023-12-22 23:15:47.713 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-22 23:15:47.933 [info] Started local extension host with pid 281637.
+2023-12-22 23:15:48.374 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.374 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.374 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.374 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.375 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.376 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.376 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:48.376 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-22 23:15:49.796 [error] ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-12-22 23:15:50.630 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/seirennn/.config/nvim/init.lua' (Error: File Modified Since) file:///home/seirennn/.config/nvim/init.lua
+2023-12-22 23:15:50.655 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/seirennn/.config/waybar/style.css' (Error: File Modified Since) file:///home/seirennn/.config/waybar/style.css
+2023-12-22 23:15:53.349 [info] [perf] Render performance baseline is 16ms
+2023-12-22 23:16:02.242 [error] Unable to read file '/home/seirennn/.config/nvim/init.lua' (Error: File not modified since): Error: Unable to read file '/home/seirennn/.config/nvim/init.lua' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18798)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:38735
+2023-12-22 23:16:05.602 [error] Unable to read file '/home/seirennn/.config/waybar/style.css' (Error: File not modified since): Error: Unable to read file '/home/seirennn/.config/waybar/style.css' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18798)
+    at n.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:18686)
+    at async b.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42874)
+    at async b.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:42628)
+    at async P.Cb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:6445)
+    at async P.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2158:4892)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2169:38735

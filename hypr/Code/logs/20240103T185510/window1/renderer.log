@@ -1,0 +1,11 @@
+2024-01-03 18:55:11.452 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-03 18:55:11.492 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/seirennn/.config/BetterDiscord/themes/zelkBD.theme.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-03 18:55:11.908 [info] Started local extension host with pid 61760.
+2024-01-03 18:55:12.702 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.703 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.704 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.704 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.705 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.706 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.707 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2024-01-03 18:55:12.707 [error] [Extension Host] Failed to load message bundle for file /home/seirennn/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension

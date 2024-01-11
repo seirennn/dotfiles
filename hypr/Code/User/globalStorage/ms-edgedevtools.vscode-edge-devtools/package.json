@@ -1,0 +1,17 @@
+{
+  "name": "ms-edgedevtools.vscode-edge-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@hint/configuration-development": "^8.3.18",
+    "hint": "^7.1.10",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,13 @@
+2024-01-02 19:30:09.907 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-01-02 19:30:09.907 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-01-02 19:30:09.907 [info] Added views:terminal in terminal
+2024-01-02 19:30:09.907 [info] Added views:outline in workbench.view.explorer
+2024-01-02 19:30:09.907 [info] Added views:workbench.scm in workbench.view.scm
+2024-01-02 19:30:09.907 [info] Added views:workbench.view.search in workbench.view.search
+2024-01-02 19:30:09.907 [info] Added views:timeline in workbench.view.explorer
+2024-01-02 19:30:09.907 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-01-02 19:30:10.052 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2024-01-02 19:30:10.053 [info] Added views:vscode-edge-devtools-view.targets,vscode-edge-devtools-view.help-links in workbench.view.extension.vscode-edge-devtools-view
+2024-01-02 19:30:10.246 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-01-02 19:30:10.343 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-01-02 19:30:10.791 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer

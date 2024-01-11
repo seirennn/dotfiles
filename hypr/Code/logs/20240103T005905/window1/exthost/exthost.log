@@ -1,0 +1,17 @@
+2024-01-03 00:59:06.707 [info] Extension host with pid 86200 started
+2024-01-03 00:59:06.719 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-03 00:59:06.790 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-03 00:59:06.821 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-03 00:59:06.839 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-03 00:59:06.862 [info] Eager extensions activated
+2024-01-03 00:59:06.874 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-03 00:59:06.876 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-03 00:59:06.879 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-01-03 00:59:06.882 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2024-01-03 00:59:06.920 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-03 00:59:08.040 [error] Error: ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-01-03 00:59:11.676 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-03 00:59:11.713 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-03 00:59:16.535 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-03 00:59:16.544 [error] Error: ENOENT: no such file or directory, open '/home/seirennn/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2024-01-03 00:59:16.545 [info] Extension host with pid 86200 exiting with code 0

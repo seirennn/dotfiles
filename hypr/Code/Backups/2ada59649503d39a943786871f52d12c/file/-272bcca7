@@ -1,0 +1,5 @@
+file:///home/seirennn/Documents/projects/a.c {"mtime":1701475323669,"ctime":1701475323669,"size":35,"etag":"3bidjm6p414","orphaned":false,"typeId":""}
+#include <stdio.h>
+
+int main(){
+}
