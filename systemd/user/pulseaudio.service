@@ -1,0 +1,9 @@
+[Unit]
+Description=PulseAudio sound server
+
+[Service]
+ExecStart=pulseaudio --daemonize=no --log-target=journal
+Restart=always
+
+[Install]
+WantedBy=default.target

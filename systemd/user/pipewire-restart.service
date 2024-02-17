@@ -1,0 +1,10 @@
+[Unit]
+Description=Restart PipeWire after login
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/systemctl --user restart pipewire
+ExecStartPost=/usr/bin/mplayer ~/Music/'10hrs.m4a'
+
+[Install]
+WantedBy=default.target
