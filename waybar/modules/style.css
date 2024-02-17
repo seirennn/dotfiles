@@ -1,5 +1,5 @@
 * {
-    border: 0;
+    border: 0px;
     border-radius: 0px;
     font-family: "JetBrainsMono Nerd Font";
     
@@ -154,13 +154,13 @@ tooltip {
 #custom-r_end {
     border-radius: 0px 12px 12px 0px;
     margin-right: 8px;
-    padding-right: 3px;
+    padding-right: 0px;
 }
 
 #custom-l_end {
     border-radius: 12px 0px 0px 12px;
-    margin-left: 9px;
-    padding-left: 3px;
+    margin-left: 0px;
+    padding-left: 5px;
 }
 
 #custom-sr_end {
