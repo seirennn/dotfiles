@@ -1,10 +1,10 @@
 return {
-  { "seirennn/gruvbox.nvim", branch = "EerieD" },
+  { "rebelot/kanagawa.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "kanagawa",
     },
   },
 }

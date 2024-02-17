@@ -32,7 +32,7 @@ require("lazy").setup({
     version = false, -- always use the latest git commit
     -- version = "*", -- try installing the latest stable version for plugins that support semver
   },
-  install = { colorscheme = { "tokyonight", "habamax" } },
+  install = { colorscheme = { "kanagawa", "habamax" } },
   checker = { enabled = true }, -- automatically check for plugin updates
   performance = {
     rtp = {
@@ -56,7 +56,7 @@ vim.api.nvim_exec(
   [[
   augroup SetColorscheme
     autocmd!
-    autocmd VimEnter * colorscheme gruvbox
+    autocmd VimEnter * colorscheme kanagawa-dragon
   augroup END
 ]],
   false
@@ -72,7 +72,6 @@ local LazyVim = require("lazyvim")
 LazyVim.setup({
   plugins = {
     "lervag/vimtex",
-    "codota/tabnine-nvim",
 
     -- Add other plugins as needed
   },
@@ -80,9 +79,6 @@ LazyVim.setup({
 
 -- Additional configuration for vimtex (assuming lua/plugins/vimtex.lua)
 require("plugins.vimtex")
-require("lazy").setup({
-  { "codota/tabnine-nvim", build = "./dl_binaries.sh" },
-})
 
 -- lua/plugins/vimtex.lua
 

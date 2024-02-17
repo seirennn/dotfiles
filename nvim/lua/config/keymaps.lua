@@ -7,6 +7,9 @@
 -- Comile C
 vim.api.nvim_set_keymap("n", "<C-c>", [[:!gcc %<CR><CR>]], { noremap = true, silent = true })
 
+-- Comile C++
+vim.api.nvim_set_keymap("n", "<S-c>", [[:!g++ %<CR><CR>]], { noremap = true, silent = true })
+
 -- git add
 vim.api.nvim_set_keymap("n", "<leader>gg", [[:!git add %<CR><CR>]], { noremap = true, silent = true })
 --git push
@@ -24,6 +27,13 @@ vim.api.nvim_set_keymap(
 vim.api.nvim_set_keymap(
   "n",
   "<C-x>",
+  [[:!kitty -e sh -c "./a.out; read -n 1 -s"<CR>]],
+  { noremap = true, silent = true }
+)
+-- open different terminal and run C++
+vim.api.nvim_set_keymap(
+  "n",
+  "<S-x>",
   [[:!kitty -e sh -c "./a.out; read -n 1 -s"<CR>]],
   { noremap = true, silent = true }
 )
